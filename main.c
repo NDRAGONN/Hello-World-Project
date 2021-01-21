@@ -4,7 +4,7 @@ int main() {
     double a=23;
     double b=21.6;
     double c=21.75;
-    double max=0;
+    double max=0.0;
     if (a>max)
         max=a;
     if (b>max)
